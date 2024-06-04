@@ -1,0 +1,20 @@
+.poppins-regular {
+  font-family: "Teko", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 300 to 700 */
+
+.teko-regular{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.teko-bold{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
